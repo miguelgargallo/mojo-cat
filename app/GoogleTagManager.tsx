@@ -27,3 +27,4 @@ const GoogleTagManager: React.FC = () => {
 };
 
 export default GoogleTagManager;
+
