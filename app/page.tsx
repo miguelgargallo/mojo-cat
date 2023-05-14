@@ -115,7 +115,7 @@ export default function Home() {
         <div className="flex items-center justify-center">
           <a
             className="flex items-center justify-center"
-            href="https://mojo.li" target="_blank" rel="noopener noreferrer"
+            href="https://mojo.cat" target="_blank" rel="noopener noreferrer"
           >
             Mojo 🔥 Cat. 2023 All rights reserved. mojo.cat is not an official site or affiliated with Modular.
           </a>
