@@ -51,7 +51,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-          Discover the official site, we are a side project not official and we are not affiliated with Modular.
+            Discover the official site, we are a side project not official and we are not affiliated with Modular.
           </p>
         </a>
         <a
